@@ -10,13 +10,13 @@
 	<form action="register.jsp" method="post" id="joinform">
 	<input type="text" placeholder="아이디를 입력하세요" name="id" id="id" size="30"/>
 	<span id="idspan"></span><br />
-	<input type="password="
-	placehholder="비밀번호를 입력하세요"
-	name="pw" id="pw" size="30"/>
+	<input type="text"
+	placehholder="이름를 입력하세요"
+	name="name" id="name" size="30"/>
 	<span id="pwspan"></span><br />
 	<input type="password"
 	placeholder="비밀번호를 다시 입력하세요"
-	name="pw1" id="pw1" size="30" />
+	name="pw" id="pw" size="30" />
 	<br />
 	<input type="submit" value="회원가입"/>  <input type="button" value="취소">
 
@@ -37,7 +37,7 @@
 	}
 	}
 }
-
+//로그인부터 만들기 라고 말하기
 
 
 </script>

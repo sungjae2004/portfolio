@@ -27,5 +27,6 @@
 	<img src ="images/메인화면.jpg" width="1000" height="1000">
 	</div>
 	<a href="login.jsp">로그인</a><br/>
+	
 </body>
 </html>
